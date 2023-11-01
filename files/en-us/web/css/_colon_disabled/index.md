@@ -1,8 +1,8 @@
 ---
-title: ":disabled"
-slug: Web/CSS/:disabled
+title: ":enabled"
+slug: Web/CSS/:enabled
 page-type: css-pseudo-class
-browser-compat: css.selectors.disabled
+browser-compat: css.selectors.enabled
 ---
 
 {{CSSRef}}
